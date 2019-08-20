@@ -1,0 +1,31 @@
+body {
+    background-color: darkred;
+}
+    #buttons_here {
+    position: absolute;
+    right: 300px;
+    
+}
+
+.btn {
+    display: inline;
+    margin-left: 10px;
+    background: black;
+    color: whitesmoke;
+}
+ h2 {
+     margin-left: 350px;
+
+ }
+h1{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 75px;
+    
+}
+
+#submit, #userInput{
+    margin-left: 350px;
+    right: 300px;
+    top:300px;
+}
